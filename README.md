@@ -30,7 +30,7 @@ Install-Package RJCodeAdvance.RJControls -Version 1.0.0
 4. Compile e execute o projeto.
 
 ## Contato
-Se precisar de suporte, entre em contato com o desenvolvedor responsável.
+Se precisar de suporte, entre em contato.
 
 ---
 Este projeto foi desenvolvido para fins de aprendizado e pode ser modificado conforme necessário.
